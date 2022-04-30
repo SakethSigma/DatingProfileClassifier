@@ -8,4 +8,8 @@ Required libraries
 - scikit-learn
 - spacy
 
+For data scraping & model deployment files
+- selenium browser bundle
+- chromedriver
+
 This project can be run on Jupyter notebook.
